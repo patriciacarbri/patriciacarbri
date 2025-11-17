@@ -22,8 +22,6 @@ Estou ativamente à procura de uma oportunidade de recolocação onde possa apli
 
 * **🎓 Formação Académica:** Possuo **Mestrado em Gestão de Políticas Públicas** (UNESP)  e termino minha graduação tecnológica em **Superior de Tecnologia em Banco de Dados e Big Data** (IESB) em 2026.
 * **🌱 Aprofundamento:** Estudos focados em IA e Processamento de Linguagem Natural (PLN).
-* **🔭 Projeto de Portfólio:** A desenvolver uma análise sobre o perfil da mulher brasileira, cruzando dados do Censo 2010/2022.
-
 ---
 
 ### 📫 Contacte-me
