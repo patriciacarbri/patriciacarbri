@@ -20,7 +20,7 @@ Estou ativamente à procura de uma oportunidade de recolocação onde possa apli
 
 ### 🚀 Foco Atual
 
-* **🎓 Formação Académica:** Possuo **Mestrado em Gestão de Políticas Públicas** (UNESP)  e termino minha graduação tecnológica em **Superior de Tecnologia em Banco de Dados e Big Data** (IESB) em 2026.
+* **🎓 Formação Académica:** Possuo **Mestrado em Gestão de Políticas Públicas** (UNESP), pós graduação em Ciência de Dados (Mackenzie), graduação em comunicação social e termino minha graduação tecnológica em **Superior de Tecnologia em Banco de Dados e Big Data** (IESB) em 2026.
 * **🌱 Aprofundamento:** Estudos focados em IA e Processamento de Linguagem Natural (PLN).
 ---
 
