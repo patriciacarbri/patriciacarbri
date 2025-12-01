@@ -1,4 +1,4 @@
-### Olá! 👋 Sou Patrícia Sousa
+### Olá! 👋 Sou Patrícia Carbri
 
 Sou uma Cientista de Dados com sólida experiência em unir conhecimento técnico e visão estratégica para desenvolver soluções de dados inovadoras.
 
