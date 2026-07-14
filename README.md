@@ -1,30 +1,42 @@
-### Olá! 👋 Sou Patrícia Carbri
+## Olá! 👋 Sou Patrícia Carbri
 
-Sou uma Cientista de Dados com sólida experiência em unir conhecimento técnico e visão estratégica para desenvolver soluções de dados inovadoras.
+Sou Cientista de Dados, especialista em Inteligência Artificial, com experiência em unir conhecimento técnico e visão estratégica para desenvolver soluções de dados e IA em ambientes corporativos.
 
-A minha especialidade é transformar dados complexos (particularmente dados públicos e judiciais) em insights acionáveis, apoiando organizações na tomada de decisões assertivas e na geração de resultados de alto impacto.
+Atualmente atuo na CNI (Confederação Nacional da Indústria), construindo soluções generativas, agentes baseados em LLM e pipelines de dados em ambientes Databricks, Azure e GCP. Minha trajetória inclui também o setor público (CNJ, Ministério da Saúde), com foco em qualidade de dados e transparência.
 
-Estou ativamente à procura de uma oportunidade de recolocação onde possa aplicar a minha experiência no desenvolvimento de pipelines de dados, automação de processos e análise preditiva, com foco especial em **Inteligência Artificial** e **Gestão Pública**.
-
----
+Estou sempre aberta a trocar ideias sobre arquitetura de dados, IA generativa e automação, e também a novas oportunidades que unam essas frentes.
 
 ### 🛠️ Tecnologias e Competências
 
-* **IA & Machine Learning:** Processamento de Linguagem Natural (PLN), Criação de Prompts, Uso de LLMs, Algoritmos de ML (Regressão, Classificação).
-* **Linguagens & Dados:** Python (Pandas, Scikit-Learn), R, SQL.
-* **Visualização & BI:** Qlik Sense, Power BI, Looker Studio.
-* **Bancos de Dados:** Oracle, PostgreSQL.
-* **Frameworks & Ferramentas:** Spark, Docker, Django, Git/GitHub.
+**Arquitetura e Cloud**
+- Databricks (Unity Catalog, Delta Lake, Genie Spaces, MLflow)
+- Azure (Data Factory, Secret Manager)
+- Google Cloud Platform (Vertex AI, Cloud Run, Dialogflow CX)
+- AWS
 
----
+**IA e Machine Learning**
+- LLMs, RAG, Prompt Engineering, orquestração de agentes com LangGraph
+- Processamento de Linguagem Natural (PLN)
+- Algoritmos de ML (Regressão, Classificação, Clusterização)
+
+**Linguagens e Dados**
+- Python (Pandas, Scikit Learn, PySpark), SQL, R
+
+**Automação e Engenharia de Dados**
+- n8n, Airflow, Prefect, ETL/ELT, integração via APIs
+
+**Visualização e BI**
+- Power BI, Qlik Sense, Looker Studio
+
+**Bancos de Dados**
+- PostgreSQL, Oracle, MongoDB
 
 ### 🚀 Foco Atual
 
-* **🎓 Formação Académica:** Possuo **Mestrado em Gestão de Políticas Públicas** (UNESP), pós graduação em Ciência de Dados (Mackenzie), graduação em comunicação social e termino minha graduação tecnológica em **Superior de Tecnologia em Banco de Dados e Big Data** (IESB) em 2026.
-* **🌱 Aprofundamento:** Estudos focados em IA e Processamento de Linguagem Natural (PLN).
----
+- 🎓 Formação: Mestrado em Planejamento e Análise de Políticas Públicas (UNESP), pós graduação em Engenharia de Inteligência Artificial (Data Science Academy), especialização em Ciência de Dados (Mackenzie), e conclusão da graduação tecnológica em Banco de Dados e Big Data (IESB) prevista para 2026.
+- 🌱 Aprofundamento: arquitetura de dados em ambientes multicloud e orquestração de agentes de IA.
 
-### 📫 Contacte-me
+### 📫 Contate-me
 
-* **LinkedIn:** https://www.linkedin.com/in/patricia-carbri/
-* **Email:** patriciacarbri@gmail.com
+- LinkedIn: [linkedin.com/in/patricia-carbri](https://www.linkedin.com/in/patricia-carbri/)
+- Email: patriciacarbri@gmail.com
